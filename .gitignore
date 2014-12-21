@@ -1,0 +1,60 @@
+# OS junk files
+[Tt]humbs.db
+*.DS_Store
+
+# CMake files
+CMakeCache.txt
+CMakeFiles
+Makefile
+cmake_install.cmake
+install_manifest.txt
+build/
+
+# Visual Studio files
+*.user
+*.aps
+*.pch
+*.vspscc
+*.vssscc
+*_i.c
+*_p.c
+*.ncb
+*.suo
+*.tlb
+*.tlh
+*.bak
+*.[Cc]ache
+*.ilk
+*.log
+*.lib
+*.sbr
+*.sdf
+*.opensdf
+*.pdb
+*.unsuccessfulbuild
+ipch/
+
+# vim Temp Files
+*~
+
+# NuGet
+packages/
+*.nupkg
+
+# Visual Studio database projects
+*.dbmdl
+
+# Test files
+*.testsettings
+
+# Object files
+[Oo]bj/
+
+# Output directory
+[Bb]in/
+
+# Executables
+*.exe
+
+# External library docs
+[Ee]xt/
